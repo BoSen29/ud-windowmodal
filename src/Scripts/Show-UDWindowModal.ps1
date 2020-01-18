@@ -1,0 +1,1 @@
+Set-Alias -Name "Show-UDWindowModal" -Value "Add-UDWindowModal" -Scope Global
